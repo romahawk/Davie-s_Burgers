@@ -1,6 +1,6 @@
 # Davie-s_Burgers
 <b>Codecademy Front-end Career Path | The Box Model module
-Davie's Burgers project</b>
+<br>Davie's Burgers project</b>
 https://romahawk.github.io/Davie-s_Burgers/
 
 In this project, I followed step-by-step instructions to fix a fictional restaurant’s website. 
